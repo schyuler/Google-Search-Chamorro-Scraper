@@ -1,2 +1,2 @@
 # Saipan-Tribune-Scraper
-A Python script that scrapes Chamorro-language articles and their full text directly from the Saipan Tribune website.
+A Python script used to scrape and process Chamorro language news articles from the Saipan Tribune, a news website of the Commonwealth of the Northern Mariana Islands.
